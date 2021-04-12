@@ -1,0 +1,13 @@
+name: visionAnalyze
+title: visionAnalyze
+username:
+account: seaport
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 860610
+bundleId: 2033022
+url: https://seaport.shinyapps.io/visionAnalyze/
+when: 1556034730.21532
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|4-Figure2-1.png|68.jpg|adblock-cookie-monster.jpg|dog.jpg|download.jpg|ee.png|eiffel (1).jpg|face.jpg|google_Car.png|LANDMARK.jpg|lena.jpg|oo.jpg|predictions.png|Screen-Shot-2017-06-05-at-11.45.24-AM.png__w1024|server.R|TEXT.jpg|ui.R|WP_Logos_of_Australia_by_Borrarcher.png|New folder
